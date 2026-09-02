@@ -9,4 +9,4 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 After downloading the dataset, place the required CSV file here:
 
-input_data/data.csv
+input/data.csv
